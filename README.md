@@ -44,7 +44,7 @@ sudo update-rc.d reqiiresearch defaults
 
 ```
 
-Sixth, modify configuration file to set host IP, for example, 10.0.0.211
+Sixth, modify configuration file '/opt/reqiiresearch/home/config/reqiiresearch.yml' to set host IP, for example, 10.0.0.211
 
 ```
 
